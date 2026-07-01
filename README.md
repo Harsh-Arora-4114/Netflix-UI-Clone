@@ -213,4 +213,4 @@ Netflix® is a registered trademark of Netflix, Inc. This project is not affilia
 
 ## Author
 
-**Harsh Arora**
+Developed by Harsh Arora

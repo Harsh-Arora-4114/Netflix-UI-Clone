@@ -205,12 +205,10 @@ Or use **Live Server** in VS Code.
 
 ## License
 
-This project is intended for educational and portfolio purposes only.
-
-Netflix® is a registered trademark of Netflix, Inc. This project is not affiliated with or endorsed by Netflix.
+This project is licensed under the MIT License.
 
 ---
 
 ## Author
 
-Developed by Harsh Arora
+**Developed by Harsh Arora**
